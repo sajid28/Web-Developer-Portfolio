@@ -109,7 +109,9 @@ nav a {
 
 
 /* main section styles */
+main{
 
+}
 
 /* about section styles */
 .about {
@@ -117,4 +119,11 @@ nav a {
     border-radius: 10px;
 background: #FFF8F3;
 margin: 130px ;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-between;
+}
+.about-info{
+    text-align: center;
 }
