@@ -67,9 +67,9 @@ nav a {
 /* header related style */
 .header {
     background-color: #FFF8F3;
-    background-image: url(../images/header_bg.png);
+    background-image: url(../images/developer.png), url(../images/header_bg.png);
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position:top left, bottom right;
 
 }
 
@@ -86,7 +86,7 @@ nav a {
 }
 
 .banner .profile-pic {
-    width: 500px;
+    width: 600px;
 }
 
 .banner-greeting {
